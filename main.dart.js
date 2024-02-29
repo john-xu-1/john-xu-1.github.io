@@ -76074,7 +76074,7 @@ qi(){var s=0,r=A.Q(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$qi=A.R(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.F(A.fL("JohnTest"),$async$qi)
+return A.F(A.fL("App results"),$async$qi)
 case 6:n=b
 m=A.a([$.uo],t.s)
 k=n
@@ -76673,7 +76673,7 @@ qh(){var s=0,r=A.Q(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$qh=A.R(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.F(A.fL("JohnTest"),$async$qh)
+return A.F(A.fL("App results"),$async$qh)
 case 6:n=b
 m=A.a([$.ak3,$.jB,$.akH,$.akN],t.G)
 k=n
