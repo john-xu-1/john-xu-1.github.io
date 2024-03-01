@@ -76919,7 +76919,7 @@ ql(){var s=0,r=A.Q(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$ql=A.R(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.F(A.fL("App Results"),$async$ql)
+return A.F(A.fL("App results"),$async$ql)
 case 6:n=b
 m=A.a([$.DZ().a,$.ala().a,$.alb().a,$.al3().a,$.alc().a,$.al5().a,$.al4().a,$.al6().a,$.akR,$.akC],t.G)
 k=n
